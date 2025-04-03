@@ -1,0 +1,3 @@
+# config.py
+API_ID = 27184601
+API_HASH = "6287046730a829cc9f03ddb677c75d32"
